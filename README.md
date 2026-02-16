@@ -1,5 +1,12 @@
 # Cybersecurity Threat Analysis Report
 
+Cory Morris
+02/16/2026
+Cybersecurity Threat Analysis Report Presentation
+"Fictional Organization"
+
+VIDEO LINK: https://youtu.be/LHL5HXyTZvk
+
 This project analyzes modern cybersecurity threats and mitigation strategies.
 
 ## Contents
